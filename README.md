@@ -12,7 +12,7 @@
 ## 📸 Visual Overview
 
 ### Architecture Diagram
-![Architecture](./docs/images/architecture.png)  
+![Architecture](./docs/images/architecture_diagram.png)  
 *High-level system architecture showing all four cryptographic layers*
 
 ### Message Flow
