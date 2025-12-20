@@ -97,6 +97,14 @@ curl http://localhost:8000/health
 
 ## 💻 First API calls (see it working)
 
+### Authentication
+
+All endpoints require JWT authentication:
+
+```bash
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+```
+
 ### 1️⃣ Register a user
 ```bash
 curl -X POST http://localhost:8000/api/v1/users/register \
