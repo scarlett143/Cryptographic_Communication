@@ -12,11 +12,11 @@
 ## 📸 Visual Overview
 
 ### Architecture Diagram
-![Architecture](./docs/images/architecture_diagram.png)  
+![architecture](https://github.com/user-attachments/assets/8c299742-47a2-4eaf-984b-c59e58819c7f) 
 *High-level system architecture showing all four cryptographic layers*
 
 ### Message Flow
-![Message Flow](./docs/images/message_flow.png)  
+![message_flow](https://github.com/user-attachments/assets/9ca47f6d-973d-4764-9c58-c8a37e0e3e92)
 *How messages move from Alice → Encryption → Blockchain → Storage → Bob*
 
 ---
@@ -289,15 +289,6 @@ Want to help? See `CONTRIBUTING.md`:
 
 ---
 
-## 📞 Support
-
-- **Issues:** [GitHub Issues](https://github.com/your-org/crypto-secure-platform/issues)  
-- **Discussions:** [GitHub Discussions](https://github.com/your-org/crypto-secure-platform/discussions)  
-- **Security:** security@your-org.com (responsible disclosure)  
-- **Email:** support@your-org.com  
-
----
-
 ## 📄 License
 
 MIT License — see `LICENSE` file.
@@ -306,7 +297,7 @@ In short: use it, modify it, ship it. Just include the original license text.
 
 ---
 
-## 🙏 Thanks to
+##  Thanks to
 
 - **Signal Foundation** — Signal Protocol  
 - **NIST** — Post-quantum standards (Kyber/SPQR)  
@@ -362,4 +353,4 @@ In short: use it, modify it, ship it. Just include the original license text.
 - Code: `backend/app/crypto/`, `contracts/`, `circuits/`  
 
 ---
-** by the Team-SentinelLink**
+** For the Application-SentinelLink **
