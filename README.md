@@ -348,11 +348,11 @@ In short: use it, modify it, ship it. Just include the original license text.
 
 **To evaluate this project in 15 minutes:**
 
-1. **Read this README** (3 min) — understand the idea  
-2. **See architecture** (2 min) — open `docs/images/architecture.png`  
-3. **Run Quick Start** (5 min) — verify it actually works  
-4. **Try API calls** (3 min) — see encryption + blockchain + ZKP in action  
-5. **Read `TECHNICAL-GUIDE.md`** (optional) — understand "why" decisions  
+1. ** Read this README — understand the idea **  
+2. ** See architecture — open `docs/images/architecture.png` ** 
+3. ** Run Quick Start — verify it actually works ** 
+4. ** Try API calls — see encryption + blockchain + ZKP in action **  
+5. ** Read `TECHNICAL-GUIDE.md` — understand "why" decisions ** 
 
 **To go deeper:**
 
