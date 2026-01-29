@@ -212,17 +212,7 @@ docs/
     └── message_flow.png
 ```
 
-**For judges / reviewers:**
-- Start with `README.md` (this file)  
-- See architecture with `docs/images/architecture.png`  
-- Run Quick Start, then try API calls  
-- Read `docs/TECHNICAL-GUIDE.md` for "why" decisions  
 
----
-
-## 🌍 Finding this project (discoverability)
-
-To help judges and users find this:
 
 - **GitHub topics:** `cryptography`, `signal-protocol`, `post-quantum`, `blockchain`, `zero-knowledge-proofs`, `mpc`  
 - **Badges:** Shown at top → shows status + security + tests at a glance  
@@ -301,8 +291,6 @@ Want to help? See `CONTRIBUTING.md`:
 
 MIT License — see `LICENSE` file.
 
-In short: use it, modify it, ship it. Just include the original license text.
-
 ---
 
 ##  Thanks to
@@ -341,24 +329,6 @@ In short: use it, modify it, ship it. Just include the original license text.
 | Contributing | `CONTRIBUTING.md` |
 | Changes | `CHANGELOG.md` |
 | Roadmap | `docs/ROADMAP.md` |
-
----
-
-## 🎯 For judges & reviewers
-
-**To evaluate this project in 15 minutes:**
-
-1. ** Read this README — understand the idea **  
-2. ** See architecture — open `docs/images/architecture.png` ** 
-3. ** Run Quick Start — verify it actually works ** 
-4. ** Try API calls — see encryption + blockchain + ZKP in action **  
-5. ** Read `TECHNICAL-GUIDE.md` — understand "why" decisions ** 
-
-**To go deeper:**
-
-- Full API: `docs/API.md`  
-- Security: `docs/SECURITY.md`  
-- Code: `backend/app/crypto/`, `contracts/`, `circuits/`  
 
 ---
 ** For the Application-SentinelLink **
